@@ -1,0 +1,8 @@
+[user]
+	signingkey = 53235B63BF8A31F1
+	name = Jose M Zelezarof
+	email = zelezarof@gmail.com
+[gpg]
+	program = gpg2
+[init]
+	defaultBranch = trunk
